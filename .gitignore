@@ -1,0 +1,11 @@
+# 忽略 lake packages
+.lake
+
+# 忽略编译生成的文件
+build/
+*.olean
+*.log
+
+# 忽略临时文件
+*.tmp
+*.swp
